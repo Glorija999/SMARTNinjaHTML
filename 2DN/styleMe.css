@@ -1,0 +1,49 @@
+/* CSS style */
+
+
+#navigation {
+    text-align: center;
+    color: black;
+}
+
+nav a {
+    color: black;
+}
+
+p {
+    color: brown;
+}
+
+.center {
+    text-align: center;
+}
+
+#title {
+    text-align: center;
+    color:rgb(94, 36, 14);
+    
+}
+
+#subtitle {
+    text-align: center;
+    text-decoration: underline overline;
+    color:rgb(94, 36, 14);
+}
+
+#text {
+    text-align: center;
+}
+
+#title2 {
+    text-align: center;
+    text-decoration: overline;
+    color:chocolate;
+}
+
+#quote {
+    text-align: center;
+}
+
+body {
+    background-image: url("assets/background.jpg"); /* alt="Designed by Freepik"> */
+}
